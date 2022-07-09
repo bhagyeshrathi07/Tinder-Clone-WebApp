@@ -1,2 +1,2 @@
 # Tinder-Clone
-TinDog - single page tinder clone webapp
+TinDog - single page static tinder clone webapp - Front End
